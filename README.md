@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a computational biologist with >5 years of experience in collaborative research and NGS data analysis. <br>I am providing bioinformatics support to Patrick Chinnery’s group at MRC MBU, University of Cambridge. <br>With expertise and experience in scientific research and bioinformatics, I am uniquely positioned to integrate and consult on both areas of wet lab and dry lab research. <br>My passion is seeing scientific advances benefiting the world.
+I am a computational biologist with >5 years of experience in collaborative research and NGS data analysis. I am providing bioinformatics support to Patrick Chinnery’s group at MRC MBU, University of Cambridge. With expertise and experience in scientific research and bioinformatics, I am uniquely positioned to integrate and consult on both areas of wet lab and dry lab research. My passion is seeing scientific advances benefiting the world.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@ I am a computational biologist with >5 years of experience in collaborative rese
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nmalwinka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmalwinka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nmalwinka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nmalwinka&icon=0&color=0)](https://visitcount.itsvg.in)
