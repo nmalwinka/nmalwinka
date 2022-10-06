@@ -5,7 +5,7 @@ I am a computational biologist with 6 years of experience in collaborative resea
 
 I am excited about collaborative science, data integration, visualisation. My recent work focuses on exploring and in depth analysis of single cell RNA-seq and multiome (scRNA-seq + ATAC-seq) datasets.
 
-<IMG SRC="Example_figures2.png" width=1100px><br>
+<IMG SRC="Example_figures.png" width=1100px><br>
 
 
 ## 🌐 Socials:
