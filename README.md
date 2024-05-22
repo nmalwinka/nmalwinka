@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a computational biologist with 7 years of experience in collaborative research and NGS data analysis. I am uniquely positioned to integrate and consult on both areas of wet lab and dry lab research. My passion is seeing scientific advances benefiting the world.
+I am a bioinformatician with 7.5 years of experience in collaborative research and NGS data analysis. I am uniquely positioned to integrate and consult on both areas of wet lab and dry lab research. My passion is seeing scientific advances benefiting the world.
 
-I am excited about collaborative science, data integration, visualisation. My recent work focuses on exploring and in depth analysis of single cell RNA-seq, CROP-seq and MultiOme (scRNA-seq + ATAC-seq) datasets. 
+I am excited about collaborative science, data integration, visualisation. My past work focused on exploring and in depth analysis of single cell RNA-seq, CROP-seq and MultiOme (scRNA-seq + ATAC-seq) datasets, with current shift towards pooled CRISPR screens (whole genome and custom screens, in-vivo, single cell Perturb-seq, epigenetic, base editing screens, etc.).  
+(I need to update the figure below!)
+
+I have experience in working on HPC and AWS, running jobs on schedulers, working with pipelines (mainly Nextflow).
+
 
 <IMG SRC="Example_figure.png" width=1100px><br>
 
