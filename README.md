@@ -6,12 +6,12 @@ I am a bioinformatician with 7.5 years of experience in collaborative research a
 
 I am excited about collaborative science, data integration, visualisation. My past work focused on exploring and in depth analysis of single cell RNA-seq, CROP-seq and MultiOme (scRNA-seq + ATAC-seq) datasets, with current shift towards pooled CRISPR screens (whole genome and custom screens, in-vivo, single cell Perturb-seq, epigenetic, base editing screens, etc.) and gene isoforms analysis.
 
-(I need to update the figure below!)
-
 I have experience in working on HPC and AWS, running jobs on schedulers, working with pipelines (mainly Nextflow).
 
 
-<IMG SRC="Example_figure.png" width=1100px><br>
+The figure below is not most up-to-date but highlights some of my past work - here single cell analysis associated with publication: https://doi.org/10.1016/j.cell.2023.01.034 
+
+<IMG SRC="Example_figure.png" width=1000px><br>
 
 
 ## Socials:
