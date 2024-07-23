@@ -9,7 +9,7 @@ I am excited about collaborative science, data integration, visualisation. My pa
 I have experience in working on HPC and AWS, running jobs on schedulers, working with pipelines (mainly Nextflow).
 
 
-The figure below is not most up-to-date but highlights some of my past work - here single cell analysis associated with publication: https://doi.org/10.1016/j.cell.2023.01.034 
+The figure below is not most my up-to-date work but highlights some of my past work - here single cell analysis associated with publication: https://doi.org/10.1016/j.cell.2023.01.034 
 
 <IMG SRC="Example_figure.png" width=1000px><br>
 
