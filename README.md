@@ -17,7 +17,8 @@ I am excited about collaborative science, data integration and visualisation. My
 - Pooled CRISPR screens: whole-genome and custom, in-vivo, single-cell Perturb-seq, epigenetic and base-editing screens
 - Guide design and selection across CRISPRa / CRISPRi / knockout modalities
 - Screen design for FACS, colony-forming-efficiency (CFE) and viability screens
-- Library / plasmid QC and screen analysis, and troubleshooting unsuccessful screens
+- Library / plasmid QC and screen analysis
+- A go-to point of contact for teams running screens — advising on experimental design, controls and analysis strategy, and troubleshooting from planning through to interpreting results (e.g. diagnosing unsuccessful ORF screens)
 
 **Single-cell & multiomics**
 - In-depth analysis of single-cell RNA-seq, CROP-seq and MultiOme (scRNA-seq + ATAC-seq)
